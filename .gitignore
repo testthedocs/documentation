@@ -8,7 +8,7 @@
 *.EGG-INFO
 .*.cfg
 bin/
-build/
+_build/
 develop-eggs/
 downloads/
 eggs/
