@@ -1,8 +1,8 @@
-docs.local:443 {
+http://docs.local:8080 {
     root /srv/html
     gzip
     log stdout
     errors stdout
     browse
-    tls self_signed
+    tls of
 }

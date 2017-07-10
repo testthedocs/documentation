@@ -29,7 +29,7 @@ RUN builddeps=' \
         && /usr/bin/caddy -version \
         && apk del --purge $builddeps
 
-EXPOSE 80 443 2015
+EXPOSE 80 443 2015 8080
 WORKDIR /srv
 
 COPY dockerfiles/Caddyfile /etc/Caddyfile
