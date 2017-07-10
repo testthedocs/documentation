@@ -2,6 +2,7 @@
 SHELL := /bin/bash
 
 # Get version form VERSION
+NAME = testthedocs/ttd-docs
 VERSION := $(shell cat VERSION)
 DOCKER := $(bash docker)
 
@@ -21,4 +22,10 @@ help: ## This help message
 .PHONY: html
 html: ## Builds HTML of the docs
 	@echo "$(YELLOW)==> Building HTML  ....$(RESET)"
-	docker run --rm -v "${PWD}":/build/docs:rw testthedocs/ttd-docsbuilder html
+	@cp VERSION source
+	docker run --rm -v "${PWD}/source":/build/docs:rw testthedocs/ttd-docsbuilder html
+	@rm source/VERSION
+
+.PHONY: container
+container:
+	docker build --no-cache=true --build-arg container_version=$(VERSION) -t $(NAME):$(VERSION) --rm -f dockerfiles/Dockerfile .
