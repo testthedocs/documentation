@@ -1,0 +1,1 @@
+docker run -d --network=host -p 80:80 -p 443:443 docs-local

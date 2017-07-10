@@ -1,0 +1,8 @@
+docs.local:443 {
+    root /srv/html
+    gzip
+    log stdout
+    errors stdout
+    browse
+    tls self_signed
+}

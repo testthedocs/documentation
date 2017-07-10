@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 
 # Get version form VERSION
-NAME = testthedocs/ttd-docs
+NAME = docs-local
 VERSION := $(shell cat VERSION)
 DOCKER := $(bash docker)
 
@@ -27,8 +27,8 @@ html: ## Builds HTML of the docs
 	@rm source/VERSION
 
 .PHONY: build
-container:
-	docker build --no-cache=true --build-arg container_version=$(VERSION) -t $(NAME):$(VERSION) --rm -f dockerfiles/Dockerfile .
+build:
+	docker build --no-cache=true --build-arg container_version=$(VERSION) -t docs-local --rm -f dockerfiles/Dockerfile .
 
 .PHONY: push
 push: ## Pushes images
