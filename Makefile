@@ -27,7 +27,7 @@ html: ## Builds HTML of the docs
 	@rm source/VERSION
 
 .PHONY: build
-container:
+build:
 	docker build --no-cache=true --build-arg container_version=$(VERSION) -t $(NAME):$(VERSION) --rm -f dockerfiles/Dockerfile .
 
 .PHONY: push

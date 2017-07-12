@@ -7,4 +7,7 @@ LABEL maintainer "Sven <sven@testthedocs.org>" \
     architecture="amd64" \
     docs_version="$container_version"
 
+VOLUME /root/.caddy
+COPY dockerfiles/Caddyfile /etc/Caddyfile
 COPY source/_build/html /srv/html
+
