@@ -6,5 +6,7 @@ TestTheDocs Documentation
 
 .. toctree::
    :hidden:
+   :caption: Tools
 
    editors/index
+   tools/peek
