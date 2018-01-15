@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="ICONS-64x"
+   viewBox="0 0 23 15"
+   version="1.1"
+   sodipodi:docname="ms_list1.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>i_tasks</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1424"
+     inkscape:window-height="747"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="ICONS-64x" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #e5e5e5;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #556a8a;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #2bc7f4;
+      }
+    </style>
+  </defs>
+  <title
+     id="title6">i_tasks</title>
+  <path
+     class="cls-1"
+     d="M 53,11.65 H 11 a 2.93,2.637 0 0 0 -3,2.556 v 42.588 a 2.93,2.637 0 0 0 3,2.556 h 42 a 2.93,2.637 0 0 0 3,-2.556 V 14.206 A 2.93,2.637 0 0 0 53,11.65 Z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:0.94868332" />
+  <path
+     class="cls-2"
+     d="m 55.5,11.275 v 7.2 h -47 v -7.2 A 2.5,2.25 0 0 1 11,9.025 h 42 a 2.5,2.25 0 0 1 2.5,2.25 z"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:#e5e5e5;stroke-width:0.94868332" />
+  <path
+     class="cls-3"
+     d="m 53.044865,11.698724 h -42.08973 a 2.9362598,2.6316128 0 0 0 -3.0064094,2.550778 v 42.500996 a 2.9362598,2.6316128 0 0 0 3.0064094,2.550778 h 42.08973 a 2.9362598,2.6316128 0 0 0 3.006409,-2.550778 V 14.249502 a 2.9362598,2.6316128 0 0 0 -3.006409,-2.550778 z"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#556a8a;stroke-width:1.89745116px;stroke-miterlimit:10" />
+  <rect
+     class="cls-1"
+     x="18"
+     y="8.3500004"
+     width="28"
+     height="6.3000002"
+     id="rect14"
+     style="fill:#ffffff;stroke-width:0.94868332" />
+  <path
+     class="cls-4"
+     d="m 40,7.8999997 a 7.92,7.128 0 0 0 -0.62,-2.799 8.06,7.254 0 0 0 -4.27,-3.843 8.11,7.299 0 0 0 -6.22,0 8.31,7.479 0 0 0 -2.55,1.548 8.13,7.317 0 0 0 -1.72,2.295 7.92,7.128 0 0 0 -0.62,2.799 H 19 V 13.3 H 45 V 7.8999997 Z m -8,0 a 2.5,2.25 0 1 1 2.5,-2.25 2.5,2.25 0 0 1 -2.5,2.25 z"
+     id="path16"
+     inkscape:connector-curvature="0"
+     style="fill:#2bc7f4;stroke-width:0.94868332" />
+  <polyline
+     class="cls-3"
+     points="15 29 20.5 34.5 33 22"
+     id="polyline18"
+     transform="matrix(1.0042035,0,0,0.89210898,-0.10088385,3.0668369)"
+     style="fill:none;stroke:#556a8a;stroke-width:2px;stroke-miterlimit:10" />
+  <polyline
+     class="cls-3"
+     points="15 45 20.5 50.5 33 38"
+     id="polyline20"
+     transform="matrix(1.0042035,0,0,0.89210898,-0.10088385,4.7930932)"
+     style="fill:none;stroke:#556a8a;stroke-width:2px;stroke-miterlimit:10" />
+  <line
+     class="cls-3"
+     x1="34"
+     y1="30"
+     x2="50"
+     y2="30"
+     id="line22"
+     style="fill:none;stroke:#556a8a;stroke-width:2px;stroke-miterlimit:10" />
+  <line
+     class="cls-3"
+     x1="34"
+     y1="46"
+     x2="50"
+     y2="46"
+     id="line24"
+     style="fill:none;stroke:#556a8a;stroke-width:2px;stroke-miterlimit:10" />
+</svg>
