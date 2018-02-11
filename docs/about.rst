@@ -1,5 +1,0 @@
-=====
-About
-=====
-
-A about page
