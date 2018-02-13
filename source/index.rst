@@ -13,6 +13,15 @@ Documentation
    :caption: Tests
 
    tests/ts/index
+   tests/tab/index
+   tests/toctree/index
+   tests/vale/index
+   tests/textlint/index
+   tests/htmltest/index
+   tests/sphinx/index
+   tests/spelling/index
+   tests/linkcheck/index
+   tests/write-good/index
 
 .. toctree::
    :hidden:
@@ -25,3 +34,4 @@ Documentation
    :caption: Tools
 
    tools/index
+   tools/henry/index
