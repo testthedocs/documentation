@@ -1,0 +1,8 @@
+Branches
+========
+
+master = rl aka unstable
+
+We only cut a branch for a new MAIN version.
+
+By small versions like 5.x we use "sphinx version_changed/removed/added feature
