@@ -1,3 +1,4 @@
+# Makefile for lazy people, like me
 # The shell we use
 SHELL := /bin/bash
 
