@@ -16,9 +16,3 @@ Support
 
 If you are having issues, please let us know.
 
-
-License
-=======
-
-The *content* of the documentation is licensed under the `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_
-
