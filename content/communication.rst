@@ -2,6 +2,11 @@
 Communication
 =============
 
+.. admonition:: Abstract
+
+   How to get in touch.
+
+
 Slack
 =====
 

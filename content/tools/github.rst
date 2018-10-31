@@ -2,6 +2,10 @@
 GitHub
 ======
 
+.. admonition:: Abstract
+
+   Handy tools if you wirk with GitHub.
+
 PROBOT
 ======
 
