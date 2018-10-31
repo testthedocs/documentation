@@ -17,8 +17,8 @@ To support a welcoming environment for all, regardless of individual differences
 
 These rules apply equally to founders, organizers, moderators, sponsors, and affiliates -- in short, to all participants.
 
-This isn't an exhaustive list of things that you must do, or can't do.
-Rather, take it in the spirit in which it's intended.
+This is not an exhaustive list of things that you must do, or can not do.
+Rather, take it in the spirit in which it is intended.
 
 It is a guide to make it easier to enrich all of us and the technical communities in which we participate, and which we represent.
 
