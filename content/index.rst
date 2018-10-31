@@ -26,6 +26,14 @@ TestTheDocs Documentation
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :caption: Deployment:
+
+   hosting
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
    :caption: Community:
 
+   code-of-conduct
    communication

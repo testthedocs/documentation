@@ -16,3 +16,4 @@ fake-eggs/
 parts/
 dist/
 var/
+content/_build
