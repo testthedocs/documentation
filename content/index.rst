@@ -33,6 +33,16 @@ TestTheDocs Documentation
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :caption: Site Generators:
+
+   sphinx
+   mkdocs
+   docusaurus
+   asciidoctor
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
    :caption: Deployment:
 
    hosting
