@@ -23,9 +23,9 @@ help: ## This help message
 .PHONY: html
 html: ## Builds HTML of the docs
 	@echo "$(YELLOW)==> Building HTML  ....$(RESET)"
-	@cp VERSION source
-	docker run --rm -v "${PWD}/source":/build/docs:rw testthedocs/ttd-docsbuilder html
-	@rm source/VERSION
+	@cp VERSION content
+	docker run --rm -v "${PWD}/content":/build/docs:rw testthedocs/ttd-sphinx html
+	@rm content/VERSION
 
 .PHONY: build
 build:

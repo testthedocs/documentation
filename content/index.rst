@@ -17,6 +17,13 @@ TestTheDocs Documentation
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :caption: Browser Testing:
+
+   puppeteer
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
    :caption: Tools:
 
    tools/screencast
