@@ -44,8 +44,3 @@ Atom does not spell-check reST out of the box, you will need to add reST to your
      "text.restructuredtext"
    ]
 
-Markdown
-========
-
-For Mardown you should read `this post on hackernoon <https://hackernoon.com/making-atom-even-more-awesome-my-setup-e7a89969a876>`_
-by `Chris Chinchilla <https://twitter.com/ChrisChinch>`_.

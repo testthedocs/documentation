@@ -18,7 +18,8 @@ Netlify
 
 Netlify is a San Francisco-based company that offers hosting and serverless backend services for static websites.
 
-It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt.
+It features continuous deployment from Git across a global application delivery network, serverless form handling,
+support for AWS Lambda functions, and full integration with Let's Encrypt.
 
 :URL: https://www.netlify.com/
 
@@ -29,3 +30,4 @@ GitBook makes it easy for your team to write and maintain high-quality documenta
 Share knowledge, boost your team's productivity and make your users happy.
 
 :URL: https://www.gitbook.com/
+

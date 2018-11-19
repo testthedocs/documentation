@@ -50,3 +50,20 @@ check_release_version:
 
 .PHONY: release
 release: check_release_version build tag_latest push ## Combine steps to make release
+
+.PHONY: check-rst
+check-rst: ## Runs docs8, rst checks
+	@echo "$(YELLOW)==> Running doc8 checks against rst files ...$(RESET)"
+	@rm -rf content/_build
+	@docker run -it -v "${PWD}/content":/srv/data testthedocs/ttd-doc8
+
+.PHONY: check-links
+check-links: ## Run linkcheck, ignoring "localhost"
+	@echo "$(YELLOW)==> Running Linkcheck ...$(RESET)"
+	@rm -rf content/_build
+	@docker run -it -v "${PWD}/content":/srv/test testthedocs/ttd-linkcheck
+
+.PHONY: check-toctree
+check-toctree: ## Checks for for multiple :numbered: entries in toctrees
+	@echo "$(YELLOW)==> Checking toctree entries ...$(RESET)"
+	@docker run -it -v "${PWD}/content":/build/docs testthedocs/ttd-toctree

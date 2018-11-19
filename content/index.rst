@@ -20,6 +20,7 @@ TestTheDocs Documentation
    :caption: Browser Testing:
 
    puppeteer
+   nightwatch
 
 .. toctree::
    :hidden:
