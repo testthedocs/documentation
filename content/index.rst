@@ -30,6 +30,7 @@ TestTheDocs Documentation
    tools/screencast
    tools/screenshot
    tools/github
+   tools/linter
 
 .. toctree::
    :hidden:

@@ -4,7 +4,7 @@ GitHub
 
 .. admonition:: Abstract
 
-   Handy tools if you wirk with GitHub.
+   Handy tools if you work with GitHub.
 
 PROBOT
 ======
