@@ -6,6 +6,11 @@ Screenshot
 
    Tools for screenshots.
 
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
+
 Carbon
 ======
 

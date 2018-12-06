@@ -6,6 +6,11 @@ Hosting
 
    List of hosting solutions.
 
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
+
 Read The Docs
 =============
 

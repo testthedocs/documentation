@@ -6,6 +6,10 @@ Communication
 
    How to get in touch.
 
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
 
 Slack
 =====

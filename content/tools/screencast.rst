@@ -4,7 +4,12 @@ Screencast
 
 .. admonition:: Abstract
 
-   Tools for scrceencasts.
+   Tools for screencasts.
+
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
 
 Peek
 ====
