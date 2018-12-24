@@ -42,6 +42,7 @@ TestTheDocs Documentation
    mkdocs
    docusaurus
    asciidoctor
+   vuepress
 
 .. toctree::
    :hidden:
