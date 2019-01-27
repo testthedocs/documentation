@@ -43,6 +43,7 @@ TestTheDocs Documentation
    docusaurus
    asciidoctor
    vuepress
+   docsify
 
 .. toctree::
    :hidden:
