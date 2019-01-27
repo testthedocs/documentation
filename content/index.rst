@@ -59,3 +59,4 @@ TestTheDocs Documentation
 
    code-of-conduct
    communication
+   style-guide
