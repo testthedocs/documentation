@@ -25,3 +25,9 @@ Powerful yet simple to use screenshot software
 
 :URL: https://github.com/lupoDharkael/flameshot
 
+Ksnip
+=====
+
+Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
+
+:URL: https://github.com/DamirPorobic/ksnip
